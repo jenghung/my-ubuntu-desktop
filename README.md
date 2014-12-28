@@ -33,3 +33,7 @@ icon
 https://numixproject.org/
 
 https://github.com/numixproject/numix-icon-theme-circle
+
+java develop environment
+===
+http://www.webupd8.org/2012/01/install-oracle-java-jdk-7-in-ubuntu-via.html
