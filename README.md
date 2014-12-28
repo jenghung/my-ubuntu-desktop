@@ -81,3 +81,5 @@ http://www.webupd8.org/2012/01/install-oracle-java-jdk-7-in-ubuntu-via.html
 plugin: jrebel, quick serach, eclipse color theme, easy shell
 
 server: Jboss AS Tools
+
+http://askubuntu.com/questions/156910/how-to-change-eclipse-font-sizes
