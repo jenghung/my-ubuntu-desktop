@@ -14,6 +14,8 @@ http://ingramchen.io/blog/2014/07/ubuntu-noto-font.html
 
 http://samwhelp.github.io/blog/read/linux/ubuntu/font/font-noto/
 
+https://github.com/adobe-fonts
+
 ubuntu yosemite theme
 ===
 http://www.noobslab.com/2014/11/mbuntu-macbuntu-1410-transformation.html
