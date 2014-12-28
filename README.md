@@ -28,6 +28,8 @@ https://www.youtube.com/watch?v=hh3x4loZPCw
 
 https://www.youtube.com/watch?v=DSf7aujD7tI
 
+http://andrewjhazelton.deviantart.com/art/OS-X-10-10-Yosemite-Wallpaper-Blur-458548536
+
 icon
 ===
 https://numixproject.org/
