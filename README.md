@@ -69,9 +69,9 @@ https://gist.github.com/gmodarelli/5942850
 https://github.com/mattcan/solarized-gedit
 
 ## GIT
-git gui tools: gitg
-
-git merge tool: meld
+```sh
+sudo apt get install gitg
+sudo apt get install meld
 
 http://www.gitguys.com/topics/merging-with-a-gui/?lang=zh
 
