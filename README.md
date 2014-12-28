@@ -2,11 +2,23 @@ my-ubuntu-desktop
 =================
 http://lodour.blogspot.tw/2014/08/ubuntu.html
 
+brightness Fn shortcut
+===
 http://askubuntu.com/questions/230609/brightness-keyboard-buttons-do-not-work-on-asus-1225c
 
+font
+===
 http://scar.simcz.tw/article/2014/04/22/fix-ubuntu-14-04-lts-zh-font-selector/
 
 http://ingramchen.io/blog/2014/07/ubuntu-noto-font.html
 
 http://samwhelp.github.io/blog/read/linux/ubuntu/font/font-noto/
+
+ubuntu yosemite theme
+===
+http://www.noobslab.com/2014/11/mbuntu-macbuntu-1410-transformation.html
+
+https://www.youtube.com/watch?v=hh3x4loZPCw
+
+https://www.youtube.com/watch?v=DSf7aujD7tI
 
