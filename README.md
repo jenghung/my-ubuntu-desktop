@@ -72,7 +72,7 @@ https://github.com/mattcan/solarized-gedit
 ```sh
 sudo apt get install gitg
 sudo apt get install meld
-
+```
 http://www.gitguys.com/topics/merging-with-a-gui/?lang=zh
 
 ## JAVA Development Environment
