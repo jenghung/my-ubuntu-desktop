@@ -1,12 +1,16 @@
-my-ubuntu-desktop
-=================
+Basic Install
+===
+vim, git, screen
+
+Chinese Input
+===
 http://lodour.blogspot.tw/2014/08/ubuntu.html
 
-brightness Fn shortcut
+Brightness Fn Shortcut
 ===
 http://askubuntu.com/questions/230609/brightness-keyboard-buttons-do-not-work-on-asus-1225c
 
-font
+Font
 ===
 http://scar.simcz.tw/article/2014/04/22/fix-ubuntu-14-04-lts-zh-font-selector/
 
@@ -16,7 +20,7 @@ http://samwhelp.github.io/blog/read/linux/ubuntu/font/font-noto/
 
 https://github.com/adobe-fonts
 
-ubuntu yosemite theme
+Ubuntu yosemite Theme
 ===
 http://www.noobslab.com/2014/11/mbuntu-macbuntu-1410-transformation.html
 
@@ -32,13 +36,13 @@ https://www.youtube.com/watch?v=DSf7aujD7tI
 
 http://andrewjhazelton.deviantart.com/art/OS-X-10-10-Yosemite-Wallpaper-Blur-458548536
 
-icon
+Icon
 ===
 https://numixproject.org/
 
 https://github.com/numixproject/numix-icon-theme-circle
 
-git
+GIT
 ===
 git gui tools: gitg
 
@@ -46,7 +50,7 @@ git merge tool: meld
 
 http://www.gitguys.com/topics/merging-with-a-gui/?lang=zh
 
-java development environment
+JAVA Development Environment
 ===
 http://www.webupd8.org/2012/01/install-oracle-java-jdk-7-in-ubuntu-via.html
 
