@@ -6,3 +6,5 @@ http://askubuntu.com/questions/230609/brightness-keyboard-buttons-do-not-work-on
 
 http://scar.simcz.tw/article/2014/04/22/fix-ubuntu-14-04-lts-zh-font-selector/
 
+http://ingramchen.io/blog/2014/07/ubuntu-noto-font.html
+
