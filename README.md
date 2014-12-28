@@ -1,14 +1,24 @@
 My Ubuntu Desktop
 ===
 
-##Basic Install And Settings
+## Basic Install And Settings
+### Install 
+* vim, git, screen
 
-* Install: vim, git, screen
+### Settings
 * .bashrc
-
 ```sh
 alias ls='ls -a --color=auto'
 alias rm='rm -i'
+```
+* /etc/screenrc
+```sh
+hardstatus alwayslastline " %-Lw%{= Bw}%n%f %t%{-}%+Lw %=| %0c:%s "
+termcapinfo xterm* ti@:te@
+#support color 256
+attrcolor b ".I"    # allow bold colors - necessary for some reason
+termcapinfo xterm 'Co#256:AB=\E[48;5;%dm:AF=\E[38;5;%dm' # tell screen how to set colors. AB = background, AF=foreground
+defbce on    # use current bg color for erased chars
 ```
 
 Chinese Input
