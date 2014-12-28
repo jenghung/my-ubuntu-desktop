@@ -29,3 +29,5 @@ https://www.youtube.com/watch?v=DSf7aujD7tI
 icon
 ===
 https://numixproject.org/
+
+https://github.com/numixproject/numix-icon-theme-shine
