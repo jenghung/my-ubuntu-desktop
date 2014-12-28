@@ -30,4 +30,4 @@ icon
 ===
 https://numixproject.org/
 
-https://github.com/numixproject/numix-icon-theme-shine
+https://github.com/numixproject/numix-icon-theme-circle
