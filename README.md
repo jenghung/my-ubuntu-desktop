@@ -1,6 +1,15 @@
-Basic Install
+My Ubuntu Desktop
 ===
-vim, git, screen
+
+##Basic Install And Settings
+
+* Install: vim, git, screen
+* .bashrc
+
+```sh
+alias ls='ls -a --color=auto'
+alias rm='rm -i'
+```
 
 Chinese Input
 ===
@@ -41,6 +50,14 @@ Icon
 https://numixproject.org/
 
 https://github.com/numixproject/numix-icon-theme-circle
+
+Solarized Color Theme
+===
+https://github.com/Anthony25/gnome-terminal-colors-solarized
+
+https://github.com/seebi/dircolors-solarized
+
+
 
 GIT
 ===
