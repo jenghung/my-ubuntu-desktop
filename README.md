@@ -2,8 +2,6 @@ My Ubuntu Desktop
 ===
 <img src="https://raw.githubusercontent.com/jenghung/my-ubuntu-desktop/master/screenshots/screenshot1.png">
 
-<img src="https://raw.githubusercontent.com/jenghung/my-ubuntu-desktop/master/screenshots/screenshot2.png">
-
 ## Basic Install And Settings
 ### Install 
 * vim, git, screen
