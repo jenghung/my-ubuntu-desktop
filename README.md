@@ -18,6 +18,8 @@ ubuntu yosemite theme
 ===
 http://www.noobslab.com/2014/11/mbuntu-macbuntu-1410-transformation.html
 
+http://www.noobslab.com/2014/04/macbuntu-1404-pack-is-released.html
+
 https://www.youtube.com/watch?v=hh3x4loZPCw
 
 https://www.youtube.com/watch?v=DSf7aujD7tI
