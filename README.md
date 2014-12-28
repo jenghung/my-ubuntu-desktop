@@ -80,4 +80,4 @@ plugin: jrebel, quick serach, eclipse color theme, easy shell
 
 server: Jboss AS Tools
 
-http://askubuntu.com/questions/156910/how-to-change-eclipse-font-sizes
+http://stackoverflow.com/questions/11805784/very-large-tabs-in-eclipse-panes-on-ubuntu
