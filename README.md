@@ -38,6 +38,14 @@ https://numixproject.org/
 
 https://github.com/numixproject/numix-icon-theme-circle
 
+git
+===
+git gui tools: gitg
+
+git merge tool: meld
+
+http://www.gitguys.com/topics/merging-with-a-gui/?lang=zh
+
 java development environment
 ===
 http://www.webupd8.org/2012/01/install-oracle-java-jdk-7-in-ubuntu-via.html
