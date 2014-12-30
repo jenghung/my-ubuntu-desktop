@@ -67,6 +67,15 @@ https://gist.github.com/gmodarelli/5942850
 https://github.com/mattcan/solarized-gedit
 
 ## GIT
+* git prompt
+```sh
+#git bash
+parse_git_branch() {
+  git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/(\1)/'
+}
+PS1="${debian_chroot:+($debian_chroot)}\u@\h:\w\$(parse_git_branch)$ "
+```
+* git gui tools
 ```sh
 sudo apt get install gitg
 sudo apt get install meld
