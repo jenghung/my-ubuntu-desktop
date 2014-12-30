@@ -99,8 +99,12 @@ http://stackoverflow.com/questions/3124629/how-can-i-configure-the-font-size-for
 
 ## Microsoft Office
 ### Lync
-
 http://nknu.net/ubuntu-14-04-exchange-configuration-thunderbird-pidgin/#pidgin
 
 http://www.howtogeek.com/45932/how-to-disable-pidgin-notifications-in-ubuntu/
 
+### Office
+http://www.omgubuntu.co.uk/2014/07/run-microsoft-office-web-apps-ubuntu-desktop
+
+### One Drive
+http://www.omgubuntu.co.uk/2014/06/one-drive-ubuntu-integration
