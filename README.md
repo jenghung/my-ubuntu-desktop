@@ -80,6 +80,7 @@ PS1="${debian_chroot:+($debian_chroot)}\u@\h:\w\$(parse_git_branch)$ "
 sudo apt get install gitg
 sudo apt get install meld
 ```
+http://wiki.rabbitvcs.org/wiki/install/ubuntu
 http://www.gitguys.com/topics/merging-with-a-gui/?lang=zh
 
 ## JAVA Development Environment
