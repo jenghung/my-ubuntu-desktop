@@ -82,6 +82,7 @@ sudo apt get install meld
 ```
 http://wiki.rabbitvcs.org/wiki/install/ubuntu
 http://www.gitguys.com/topics/merging-with-a-gui/?lang=zh
+https://groups.google.com/forum/#!topic/rabbitvcs-activity/fFvDE8BFCIo
 
 ## JAVA Development Environment
 http://www.webupd8.org/2012/01/install-oracle-java-jdk-7-in-ubuntu-via.html
