@@ -89,6 +89,8 @@ http://www.webupd8.org/2012/01/install-oracle-java-jdk-7-in-ubuntu-via.html
 
 plugin: jrebel, quick serach, eclipse color theme, easy shell
 
+http://sourceforge.net/projects/realignmentjd/files/
+
 server: Jboss AS Tools
 
 http://stackoverflow.com/questions/11805784/very-large-tabs-in-eclipse-panes-on-ubuntu
