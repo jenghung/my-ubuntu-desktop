@@ -99,4 +99,5 @@ http://stackoverflow.com/questions/3124629/how-can-i-configure-the-font-size-for
 ### Lync
 
 http://nknu.net/ubuntu-14-04-exchange-configuration-thunderbird-pidgin/#pidgin
+http://www.howtogeek.com/45932/how-to-disable-pidgin-notifications-in-ubuntu/
 
