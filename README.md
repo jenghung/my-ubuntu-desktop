@@ -3,8 +3,8 @@ My Ubuntu Desktop
 <img src="https://raw.githubusercontent.com/jenghung/my-ubuntu-desktop/master/screenshots/screenshot1.png">
 
 ## Basic Install And Settings
-### Install 
-* vim, git, screen
+### Utility 
+* vim, git, screen, unity tweak tool, ubuntu tweak
 
 ### Settings
 * .bashrc
