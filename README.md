@@ -23,6 +23,7 @@ defbce on    # use current bg color for erased chars
 ```
 
 ## Chinese Input
+### fcitx
 http://lodour.blogspot.tw/2014/08/ubuntu.html
 
 ## Brightness Fn Shortcut
