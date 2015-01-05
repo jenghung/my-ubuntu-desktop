@@ -38,6 +38,13 @@ http://samwhelp.github.io/blog/read/linux/ubuntu/font/font-noto/
 
 https://github.com/adobe-fonts
 
+```sh
+<string>Noto Sans CJK TC</string>
+<string>Noto Sans CJK SC</string>
+<string>Noto Sans CJK JP</string>
+<string>Noto Sans CJK KR</string>
+```
+
 ## Ubuntu yosemite Theme
 http://www.noobslab.com/2014/11/mbuntu-macbuntu-1410-transformation.html
 
