@@ -2,6 +2,10 @@ My Ubuntu Desktop
 ===
 <img src="https://raw.githubusercontent.com/jenghung/my-ubuntu-desktop/master/screenshots/screenshot1.png">
 
+* More screenshots:
+
+> https://plus.google.com/communities/112725216256580894446/stream/921e0ee8-fdd9-43ee-b6c5-355c4c1d8cff
+
 ## Basic Install And Settings
 ### Utility 
 * vim, git, screen, unity tweak tool, ubuntu tweak
@@ -60,8 +64,10 @@ https://www.youtube.com/watch?v=DSf7aujD7tI
 
 http://andrewjhazelton.deviantart.com/art/OS-X-10-10-Yosemite-Wallpaper-Blur-458548536
 
-## Other Theme
+## Other Flat Theme
 http://gnome-look.org/content/show.php/Ultra-Flat?content=167473
+
+http://snwh.org/paper/
 
 ## Icon
 https://numixproject.org/
