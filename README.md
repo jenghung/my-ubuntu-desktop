@@ -64,19 +64,21 @@ https://www.youtube.com/watch?v=DSf7aujD7tI
 
 http://andrewjhazelton.deviantart.com/art/OS-X-10-10-Yosemite-Wallpaper-Blur-458548536
 
-## Other Flat Theme
+## Flat Theme
 http://gnome-look.org/content/show.php/Ultra-Flat?content=167473
 
 http://snwh.org/paper/
 
 https://medium.com/@foxoman/royal-ubuntu-theme-40a635534e1
 
-## Icon
+## Flat Icons
 https://numixproject.org/
 
 https://github.com/numixproject/numix-icon-theme-circle
 
 https://github.com/NitruxSA/flattr-icons
+
+http://gnome-look.org/content/show.php/Ultra-Flat-Icons?content=167477
 
 ## Solarized Color Theme
 https://github.com/Anthony25/gnome-terminal-colors-solarized
