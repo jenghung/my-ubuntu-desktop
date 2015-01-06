@@ -60,6 +60,9 @@ https://www.youtube.com/watch?v=DSf7aujD7tI
 
 http://andrewjhazelton.deviantart.com/art/OS-X-10-10-Yosemite-Wallpaper-Blur-458548536
 
+## Other Theme
+http://gnome-look.org/content/show.php/Ultra-Flat?content=167473
+
 ## Icon
 https://numixproject.org/
 
