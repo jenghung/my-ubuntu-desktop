@@ -65,6 +65,8 @@ https://numixproject.org/
 
 https://github.com/numixproject/numix-icon-theme-circle
 
+https://github.com/NitruxSA/flattr-icons
+
 ## Solarized Color Theme
 https://github.com/Anthony25/gnome-terminal-colors-solarized
 
