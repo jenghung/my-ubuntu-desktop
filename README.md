@@ -113,9 +113,9 @@ fc-match -s sans-serif | more
 > 
 > https://github.com/adobe-fonts
 
-## Flat Design Theme (Chose One!)
+## Flat Design Theme (Choose One!)
 ### theme
-1. MacBuntu themes and icons
+* MacBuntu themes and icons
 ```sh
 sudo add-apt-repository ppa:noobslab/themes
 sudo apt-get update
@@ -123,17 +123,17 @@ sudo apt-get install mbuntu-y-ithemes-v4
 sudo apt-get install mbuntu-y-icons-v4
 ```
 
-2. OS-X-Yosemite-theme
+* OS-X-Yosemite-theme
 ```sh
 Download from http://dgk15.deviantart.com/art/OS-X-Yosemite-theme-0-2-for-Ubuntu-14-04-472626539
 put OSX-Yosemite folder to /usr/share/themes 
 ```
 
-3. [Ultra Flat theme](http://gnome-look.org/content/show.php/Ultra-Flat?content=167473)
+* [Ultra Flat theme](http://gnome-look.org/content/show.php/Ultra-Flat?content=167473)
 
-4. [Paper theme](http://snwh.org/paper/)
+* [Paper theme](http://snwh.org/paper/)
 
-5. [Royal Ubuntu theme](https://medium.com/@foxoman/royal-ubuntu-theme-40a635534e1)
+* [Royal Ubuntu theme](https://medium.com/@foxoman/royal-ubuntu-theme-40a635534e1)
 
 ### icons
 https://github.com/numixproject/numix-icon-theme-circle
