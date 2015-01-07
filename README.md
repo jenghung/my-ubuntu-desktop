@@ -20,7 +20,7 @@ alias ls='ls -a --color=auto'
 alias rm='rm -i'
 ```
 * nautilus
-
+<img src="https://raw.githubusercontent.com/jenghung/my-ubuntu-desktop/master/screenshots/nautilus-setting.png">
 
 ## Chinese Input
 ### fcitx
@@ -31,6 +31,7 @@ sudo apt-get update
 sudo apt-get install fcitx-chewing
 ```
 change default ibus to fcitx.
+<img src="https://raw.githubusercontent.com/jenghung/my-ubuntu-desktop/master/screenshots/ibus-to-fcitx.png">
 
 > References:
 >
@@ -45,6 +46,7 @@ http://askubuntu.com/questions/230609/brightness-keyboard-buttons-do-not-work-on
 * Download Adobe Source Pro Series Fonts: [SourceSerifPro](https://github.com/adobe-fonts/source-serif-pro/releases), [SourceSansPro](https://github.com/adobe-fonts/source-sans-pro/releases), [SourceCodePro](https://github.com/adobe-fonts/source-code-pro/releases).
 
 * Move to all .otf to *~/.fonts* directory
+<img src="https://raw.githubusercontent.com/jenghung/my-ubuntu-desktop/master/screenshots/fonts-directory.png">
 
 * Edit *~/.config/fontconfig/fonts.conf*
 ```sh
