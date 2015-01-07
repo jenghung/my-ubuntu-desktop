@@ -210,6 +210,10 @@ http://stackoverflow.com/questions/3124629/how-can-i-configure-the-font-size-for
 sudo apt-get install pidgin 
 sudo apt-get install pidgin-sipe
 ```
+Edit /etc/environment
+```sh
+export NSS_SSL_CBC_RANDOM_IV=0
+```
 
 http://nknu.net/ubuntu-14-04-exchange-configuration-thunderbird-pidgin/#pidgin
 
