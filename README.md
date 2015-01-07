@@ -2,12 +2,11 @@ My Ubuntu Desktop
 ===
 <img src="https://raw.githubusercontent.com/jenghung/my-ubuntu-desktop/master/screenshots/screenshot1.png">
 
-* More screenshots:
-
+> More screenshots:
+>
 > https://plus.google.com/communities/112725216256580894446/stream/921e0ee8-fdd9-43ee-b6c5-355c4c1d8cff
 
 ## Basic Install And Settings
-### Utility 
 ```sh
 sudo apt-get update
 sudo apt-get install vim 
@@ -25,14 +24,13 @@ alias rm='rm -i'
 
 ## Chinese Input
 ### fcitx
-* install
 ```sh
 sudo apt-get install fcitx
 sudo add-apt-repository ppa:fcitx-team/nightly
 sudo apt-get update
 sudo apt-get install fcitx-chewing
 ```
-* change default ibus to fcitx
+change default ibus to fcitx.
 
 > References:
 >
@@ -42,17 +40,9 @@ sudo apt-get install fcitx-chewing
 http://askubuntu.com/questions/230609/brightness-keyboard-buttons-do-not-work-on-asus-1225c
 
 ## Fonts
-* Download Google Noto Sans Font:
+* Download [Google Noto Sans Font](https://www.google.com/get/noto/pkgs/Noto-hinted.zip)
 
-https://www.google.com/get/noto/pkgs/Noto-hinted.zip
-
-* Download Adobe Source Pro Series Fonts:
-
-https://github.com/adobe-fonts/source-serif-pro/releases
-
-https://github.com/adobe-fonts/source-code-pro/releases
-
-https://github.com/adobe-fonts/source-sans-pro/releases
+* Download Adobe Source Pro Series Fonts: [SourceSerifPro](https://github.com/adobe-fonts/source-serif-pro/releases), [SourceSansPro](https://github.com/adobe-fonts/source-sans-pro/releases), [SourceCodePro](https://github.com/adobe-fonts/source-code-pro/releases).
 
 * Move to all .otf to *~/.fonts* directory
 
