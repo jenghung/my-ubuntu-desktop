@@ -113,36 +113,48 @@ fc-match -s sans-serif | more
 > 
 > https://github.com/adobe-fonts
 
-## Ubuntu yosemite Theme
-http://www.noobslab.com/2014/11/mbuntu-macbuntu-1410-transformation.html
+## Flat Design Theme (Chose One!)
+### theme
+1. MacBuntu themes and icons
+```sh
+sudo add-apt-repository ppa:noobslab/themes
+sudo apt-get update
+sudo apt-get install mbuntu-y-ithemes-v4
+sudo apt-get install mbuntu-y-icons-v4
+```
 
-http://www.noobslab.com/2014/04/macbuntu-1404-pack-is-released.html
+2. OS-X-Yosemite-theme
+```sh
+Download from http://dgk15.deviantart.com/art/OS-X-Yosemite-theme-0-2-for-Ubuntu-14-04-472626539
+put OSX-Yosemite folder to /usr/share/themes 
+```
 
-http://jamyy.us.to/blog/2014/12/6917.html
+3. [Ultra Flat theme](http://gnome-look.org/content/show.php/Ultra-Flat?content=167473)
 
-http://dgk15.deviantart.com/art/OS-X-Yosemite-theme-0-2-for-Ubuntu-14-04-472626539
+4. [Paper theme](http://snwh.org/paper/)
 
-https://www.youtube.com/watch?v=hh3x4loZPCw
+5. [Royal Ubuntu theme](https://medium.com/@foxoman/royal-ubuntu-theme-40a635534e1)
 
-https://www.youtube.com/watch?v=DSf7aujD7tI
-
-http://andrewjhazelton.deviantart.com/art/OS-X-10-10-Yosemite-Wallpaper-Blur-458548536
-
-## Flat Theme
-http://gnome-look.org/content/show.php/Ultra-Flat?content=167473
-
-http://snwh.org/paper/
-
-https://medium.com/@foxoman/royal-ubuntu-theme-40a635534e1
-
-## Flat Icons
-https://numixproject.org/
-
+### icons
 https://github.com/numixproject/numix-icon-theme-circle
+
+http://gnome-look.org/content/show.php/Ultra-Flat-Icons?content=167477
 
 https://github.com/NitruxSA/flattr-icons
 
-http://gnome-look.org/content/show.php/Ultra-Flat-Icons?content=167477
+> References:
+>
+> http://www.noobslab.com/2014/11/mbuntu-macbuntu-1410-transformation.html
+>
+> http://www.noobslab.com/2014/04/macbuntu-1404-pack-is-released.html
+> 
+> http://jamyy.us.to/blog/2014/12/6917.html
+>
+> https://www.youtube.com/watch?v=hh3x4loZPCw
+>
+> https://www.youtube.com/watch?v=DSf7aujD7tI
+>
+> http://andrewjhazelton.deviantart.com/art/OS-X-10-10-Yosemite-Wallpaper-Blur-458548536
 
 ## Solarized Color Theme
 https://github.com/Anthony25/gnome-terminal-colors-solarized
