@@ -8,46 +8,105 @@ My Ubuntu Desktop
 
 ## Basic Install And Settings
 ### Utility 
-* vim, git, screen, unity tweak tool, ubuntu tweak
-
+```sh
+sudo apt-get update
+sudo apt-get install vim 
+sudo apt-get install git
+sudo apt-get install unity-tweak-tool
+```
 ### Settings
 * .bashrc
 ```sh
-alias ls='ls -a --color=auto'
+alias ls='ls -a --color=auto' 
 alias rm='rm -i'
 ```
-* /etc/screenrc
-```sh
-hardstatus alwayslastline " %-Lw%{= Bw}%n%f %t%{-}%+Lw %=| %0c:%s "
-termcapinfo xterm* ti@:te@
-#support color 256
-attrcolor b ".I"    # allow bold colors - necessary for some reason
-termcapinfo xterm 'Co#256:AB=\E[48;5;%dm:AF=\E[38;5;%dm' # tell screen how to set colors. AB = background, AF=foreground
-defbce on    # use current bg color for erased chars
-```
+* nautilus
+
 
 ## Chinese Input
 ### fcitx
-http://lodour.blogspot.tw/2014/08/ubuntu.html
+* install
+```sh
+sudo apt-get install fcitx
+sudo add-apt-repository ppa:fcitx-team/nightly
+sudo apt-get update
+sudo apt-get install fcitx-chewing
+```
+* change default ibus to fcitx
+
+> References:
+>
+> http://lodour.blogspot.tw/2014/08/ubuntu.html
 
 ## Brightness Fn Shortcut
 http://askubuntu.com/questions/230609/brightness-keyboard-buttons-do-not-work-on-asus-1225c
 
 ## Fonts
-http://scar.simcz.tw/article/2014/04/22/fix-ubuntu-14-04-lts-zh-font-selector/
+* Download Google Noto Sans Font:
 
-http://ingramchen.io/blog/2014/07/ubuntu-noto-font.html
+https://www.google.com/get/noto/pkgs/Noto-hinted.zip
 
-http://samwhelp.github.io/blog/read/linux/ubuntu/font/font-noto/
+* Download Adobe Source Pro Series Fonts:
 
-https://github.com/adobe-fonts
+https://github.com/adobe-fonts/source-serif-pro/releases
 
+https://github.com/adobe-fonts/source-code-pro/releases
+
+https://github.com/adobe-fonts/source-sans-pro/releases
+
+* Move to all .otf to *~/.fonts* directory
+
+* Edit *~/.config/fontconfig/fonts.conf*
 ```sh
-<string>Noto Sans CJK TC</string>
-<string>Noto Sans CJK SC</string>
-<string>Noto Sans CJK JP</string>
-<string>Noto Sans CJK KR</string>
+<fontconfig>
+  <match target="pattern">
+    <test qual="any" name="family">
+      <string>serif</string>
+    </test>
+    <edit name="family" mode="prepend" binding="strong">
+      <string>SourceSerif Pro</string>
+      <string>Noto Sans CJK TC</string>
+      <string>Noto Sans CJK SC</string>
+      <string>Noto Sans CJK JP</string>
+      <string>Noto Sans CJK KR</string>
+    </edit>
+  </match> 
+  <match target="pattern">
+    <test qual="any" name="family">
+      <string>sans-serif</string>
+    </test>
+    <edit name="family" mode="prepend" binding="strong">
+      <string>SourceSans Pro</string>
+      <string>Noto Sans CJK TC</string>
+      <string>Noto Sans CJK SC</string>
+      <string>Noto Sans CJK JP</string>
+      <string>Noto Sans CJK KR</string>
+    </edit>
+  </match>
+  <match target="pattern">
+    <test qual="any" name="family">
+      <string>monospace</string>
+    </test>
+    <edit name="family" mode="prepend" binding="strong">
+      <string>SourceCode Pro</string>
+      <string>Noto Sans CJK TC</string>
+      <string>Noto Sans CJK SC</string>
+      <string>Noto Sans CJK JP</string>
+      <string>Noto Sans CJK KR</string>
+    </edit>
+  </match>
+</fontconfig>
 ```
+
+> References:
+> 
+> http://scar.simcz.tw/article/2014/04/22/fix-ubuntu-14-04-lts-zh-font-selector/
+> 
+> http://ingramchen.io/blog/2014/07/ubuntu-noto-font.html
+> 
+> http://samwhelp.github.io/blog/read/linux/ubuntu/font/font-noto/
+> 
+> https://github.com/adobe-fonts
 
 ## Ubuntu yosemite Theme
 http://www.noobslab.com/2014/11/mbuntu-macbuntu-1410-transformation.html
