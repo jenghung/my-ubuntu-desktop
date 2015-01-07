@@ -142,6 +142,8 @@ http://gnome-look.org/content/show.php/Ultra-Flat-Icons?content=167477
 
 https://github.com/NitruxSA/flattr-icons
 
+<hr>
+
 > References:
 >
 > http://www.noobslab.com/2014/11/mbuntu-macbuntu-1410-transformation.html
@@ -176,12 +178,18 @@ PS1="${debian_chroot:+($debian_chroot)}\u@\h:\w\$(parse_git_branch)$ "
 ```
 * git gui tools
 ```sh
-sudo apt get install gitg
-sudo apt get install meld
+sudo apt-get install gitg
+sudo apt-get install meld
+sudo add-apt-repository ppa:rabbitvcs/ppa
+sudo apt-get update
+sudo apt-get install rabbitvcs-nautilus3
 ```
+
 http://wiki.rabbitvcs.org/wiki/install/ubuntu
+
 http://www.gitguys.com/topics/merging-with-a-gui/?lang=zh
-https://groups.google.com/forum/#!topic/rabbitvcs/hOvlrZTyz6M  (Use en_GB)
+
+https://groups.google.com/forum/#!topic/rabbitvcs/TH5asGgkC6g  (Use en_GB)
 
 ## JAVA Development Environment
 http://www.webupd8.org/2012/01/install-oracle-java-jdk-7-in-ubuntu-via.html
