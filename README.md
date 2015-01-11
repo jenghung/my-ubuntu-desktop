@@ -234,8 +234,14 @@ http://askubuntu.com/questions/25596/how-to-set-up-usb-for-virtualbox
 Download [Oracle VM VirtualBox Extension Pack](https://www.virtualbox.org/wiki/Downloads)
 
 ### share folder
+http://ubuntuforums.org/archive/index.php/t-1871552.html
+
 ```sh
 sudo apt-get update
 sudo apt-get install virtualbox-guest-additions-iso
 ```
+
+### resolution
+http://superuser.com/questions/495670/how-can-i-get-windows-8-and-virtualbox-to-use-my-full-screen
+
 
