@@ -226,3 +226,16 @@ http://www.omgubuntu.co.uk/2014/07/run-microsoft-office-web-apps-ubuntu-desktop
 http://www.omgubuntu.co.uk/2014/06/one-drive-ubuntu-integration
 
 https://github.com/xybu/onedrive-d
+
+## VitualBox
+### USB
+http://askubuntu.com/questions/25596/how-to-set-up-usb-for-virtualbox
+
+Download [Oracle VM VirtualBox Extension Pack](https://www.virtualbox.org/wiki/Downloads)
+
+### share folder
+```sh
+sudo apt-get update
+sudo apt-get install virtualbox-guest-additions-iso
+```
+
