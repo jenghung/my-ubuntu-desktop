@@ -167,7 +167,14 @@ https://gist.github.com/gmodarelli/5942850
 
 https://github.com/mattcan/solarized-gedit (gedit)
 
-https://github.com/altercation/vim-colors-solarized (gvim: edit ~/.gvimrc)
+https://github.com/altercation/vim-colors-solarized
+
+```sh
+# change gvim font size
+if has('gui_running')
+  set guifont=Ubuntu\ Mono\ 13
+endif
+```
 
 ## GIT
 * git prompt
