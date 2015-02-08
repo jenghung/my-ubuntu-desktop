@@ -165,7 +165,9 @@ https://github.com/seebi/dircolors-solarized
 
 https://gist.github.com/gmodarelli/5942850
 
-https://github.com/mattcan/solarized-gedit
+https://github.com/mattcan/solarized-gedit (gedit)
+
+https://github.com/altercation/vim-colors-solarized (gvim: edit ~/.gvimrc)
 
 ## GIT
 * git prompt
