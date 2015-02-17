@@ -47,6 +47,8 @@ http://askubuntu.com/questions/230609/brightness-keyboard-buttons-do-not-work-on
 
 * Download Adobe Source Pro Series Fonts: [SourceSerifPro](https://github.com/adobe-fonts/source-serif-pro/releases), [SourceSansPro](https://github.com/adobe-fonts/source-sans-pro/releases), [SourceCodePro](https://github.com/adobe-fonts/source-code-pro/releases).
 
+* [InputFont](http://input.fontbureau.com/)
+
 * Move to all .otf to *~/.fonts* directory.
 
 <img src="https://raw.githubusercontent.com/jenghung/my-ubuntu-desktop/master/screenshots/fonts-directory.png">
