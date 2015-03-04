@@ -207,6 +207,10 @@ http://www.webupd8.org/2012/01/install-oracle-java-jdk-7-in-ubuntu-via.html
 
 plugin: jrebel, quick serach, eclipse color theme, easy shell
 
+decompiler: JD-eclipse, Realignment for JD-Eclipse
+
+http://jd.benow.ca/
+
 http://sourceforge.net/projects/realignmentjd/files/
 
 server: Jboss AS Tools
