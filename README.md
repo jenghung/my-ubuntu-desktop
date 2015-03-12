@@ -259,4 +259,9 @@ sudo apt-get install virtualbox-guest-additions-iso
 ### resolution
 http://superuser.com/questions/495670/how-can-i-get-windows-8-and-virtualbox-to-use-my-full-screen
 
-
+## Chrome
+```sh
+sudo vi /usr/share/applications/google-chrome.desktop
+# 在 [Desktop Entry], [NewWindow Shortcut Group], [NewIncognito Shortcut Group] 底下插入
+StartupWMClass=Google-chrome-stable
+```
