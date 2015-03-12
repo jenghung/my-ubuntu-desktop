@@ -130,6 +130,7 @@ sudo apt-get install mbuntu-y-icons-v4
 Download from http://dgk15.deviantart.com/art/OS-X-Yosemite-theme-0-2-for-Ubuntu-14-04-472626539
 put OSX-Yosemite folder to /usr/share/themes 
 ```
+* [Ultra Flat Yosemite theme](http://gnome-look.org/content/show.php/Ultra-flat-Yosemite?content=168521)
 
 * [Ultra Flat theme](http://gnome-look.org/content/show.php/Ultra-Flat?content=167473)
 
