@@ -149,6 +149,8 @@ https://github.com/NitruxSA/flattr-icons
 
 > References:
 >
+> http://www.noobslab.com/p/themes-icons.html
+>
 > http://www.noobslab.com/2014/11/mbuntu-macbuntu-1410-transformation.html
 >
 > http://www.noobslab.com/2014/04/macbuntu-1404-pack-is-released.html
