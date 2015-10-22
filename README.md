@@ -145,6 +145,8 @@ http://gnome-look.org/content/show.php/Ultra-Flat-Icons?content=167477
 
 https://github.com/NitruxSA/flattr-icons
 
+http://xenlism.github.io/wildfire/
+
 <hr>
 
 > References:
