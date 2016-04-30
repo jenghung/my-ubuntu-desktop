@@ -6,6 +6,11 @@ My Ubuntu Desktop
 >
 > https://plus.google.com/communities/112725216256580894446/stream/921e0ee8-fdd9-43ee-b6c5-355c4c1d8cff
 
+## Ubuntu 16.04
+### Chrome
+* https://productforums.google.com/forum/#!topic/chrome/CtKF2BiskT8;context-place=forum/chrome
+* https://bugs.launchpad.net/ubuntu/+source/fonts-noto-cjk/+bug/1575555
+
 ## Basic Install And Settings
 ```sh
 sudo apt-get update
