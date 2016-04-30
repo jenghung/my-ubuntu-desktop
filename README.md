@@ -224,6 +224,8 @@ http://stackoverflow.com/questions/11805784/very-large-tabs-in-eclipse-panes-on-
 
 http://stackoverflow.com/questions/3124629/how-can-i-configure-the-font-size-for-the-tree-item-in-the-package-explorer-in-e
 
+http://stackoverflow.com/questions/32309024/eclipse-icons-are-really-small-on-high-resolution-screen
+
 ## Microsoft Office
 ### Lync
 ```sh
