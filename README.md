@@ -1,6 +1,6 @@
 My Ubuntu Desktop
 ===
-<img src="https://raw.githubusercontent.com/jenghung/my-ubuntu-desktop/master/screenshots/screenshot1.png">
+<img src="https://raw.githubusercontent.com/jenghung/my-ubuntu-desktop/master/screenshots/ubuntu-16.04.png">
 
 > More screenshots:
 >
