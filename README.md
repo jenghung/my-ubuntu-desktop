@@ -11,6 +11,9 @@ My Ubuntu Desktop
 * https://productforums.google.com/forum/#!topic/chrome/CtKF2BiskT8;context-place=forum/chrome
 * https://bugs.launchpad.net/ubuntu/+source/fonts-noto-cjk/+bug/1575555
 
+### eclipse
+* http://stackoverflow.com/questions/31154479/eclipse-mars-scrolling-in-lubuntu
+
 ## Basic Install And Settings
 ```sh
 sudo apt-get update
