@@ -1,0 +1,28 @@
+// Place your settings in this file to overwrite the default settings
+{
+  "editor.fontFamily": "DejaVu Sans Mono",
+  "editor.tabSize": 2,
+  //"http.proxy": "http://proxy.cht.com.tw:8080",
+  "files.exclude": {
+    "**/node_modules": true,
+    "**/.git": true,
+    "**/.vscode/chrome": true,
+    "**/dist": true,
+    "**/.DS_Store": true,
+    "**/*.js.map": true,
+    "**/*.js": {
+      "when": "$(basename).ts"
+    }
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/.git": true,
+    "**/.vscode/chrome": true,
+    "**/dist": true,
+    "**/.DS_Store": true,
+    "**/*.js.map": true,
+    "**/*.js": {
+      "when": "$(basename).ts"
+    }
+  }
+}

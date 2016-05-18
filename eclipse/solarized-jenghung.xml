@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="2928" name="Solarized (jenghung)" modified="2011-08-18 17:43:34" author="Diwaker Gupta" website="http://floatingsun.net">
+    <searchResultIndication color="#002B36" />
+    <filteredSearchResultIndication color="#DDD8D6" />
+    <occurrenceIndication color="#316B7A" />
+    <writeOccurrenceIndication color="#002B36" />
+    <findScope color="#EEE8D5" />
+    <deletionIndication color="#aaccff" />
+    <sourceHoverBackground color="#002B36" />
+    <singleLineComment color="#568AA7" italic="true" />
+    <multiLineComment color="#568AA7" italic="true" />
+    <commentTaskTag color="#DC322F" />
+    <javadoc color="#586E75" italic="false" />
+    <javadocLink color="#268BD2" italic="false" />
+    <javadocTag color="#CB4B16" italic="false" />
+    <javadocKeyword color="#B58900" italic="false" />
+    <class color="#839496" />
+    <interface color="#839496" />
+    <method color="#839496" />
+    <methodDeclaration color="#839496" />
+    <bracket color="#839496" />
+    <number color="#2AA198" />
+    <string color="#2AA198" />
+    <operator color="#93A1A1" bold="false" />
+    <keyword color="#B58900" />
+    <annotation color="#CB4B16" />
+    <staticMethod color="#859900" />
+    <localVariable color="#839496" />
+    <localVariableDeclaration color="#839496" />
+    <field color="#839496" />
+    <staticField color="#859900" />
+    <staticFinalField color="#859900" />
+    <deprecatedMember color="#ab2525" />
+    <enum color="#839496" />
+    <inheritedMethod color="#859900" />
+    <abstractMethod color="#859900" />
+    <parameterVariable color="#839496" />
+    <typeArgument color="#839496" />
+    <typeParameter color="#839496" />
+    <constant color="#2AA198" />
+    <background color="#002B36" />
+    <currentLine color="#073642" />
+    <foreground color="#839496" />
+    <lineNumber color="#657B83" />
+    <selectionBackground color="#FDF6E3" />
+    <selectionForeground color="#657B83" />
+</colorTheme>

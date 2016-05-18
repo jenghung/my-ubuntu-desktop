@@ -1,0 +1,6 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+  { "key": "ctrl+d",          "command": "editor.action.deleteLines", "when": "editorTextFocus" },
+  { "key": "ctrl+shift+l",    "command": "workbench.view.search" },
+  { "key": "ctrl+shift+f",    "command": "editor.action.format", "when": "editorTextFocus" }
+]
