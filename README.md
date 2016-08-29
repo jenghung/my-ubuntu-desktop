@@ -8,6 +8,9 @@ My Ubuntu Desktop
 
 ## Ubuntu 16.04
 ### Chrome
+* http://askubuntu.com/questions/752743/ubuntu-16-04-skylake-6th-generation-screen-flickering
+> sudo apt-get purge xserver-xorg-video-intel
+
 * https://productforums.google.com/forum/#!topic/chrome/CtKF2BiskT8;context-place=forum/chrome
 * https://bugs.launchpad.net/ubuntu/+source/fonts-noto-cjk/+bug/1575555
 
