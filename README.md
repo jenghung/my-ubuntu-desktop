@@ -17,6 +17,9 @@ My Ubuntu Desktop
 ### eclipse
 * http://stackoverflow.com/questions/31154479/eclipse-mars-scrolling-in-lubuntu
 
+### fctix
+* http://smpsfox.blogspot.tw/2016/06/ubuntufcitx.html
+
 ## Basic Install And Settings
 ```sh
 sudo apt-get update
@@ -265,6 +268,9 @@ https://github.com/xybu/onedrive-d
 http://askubuntu.com/questions/25596/how-to-set-up-usb-for-virtualbox
 
 Download [Oracle VM VirtualBox Extension Pack](https://www.virtualbox.org/wiki/Downloads)
+
+### Access guest network
+* http://aruljohn.com/info/virtualbox-access-guest-from-host-nat/
 
 ### share folder
 http://ubuntuforums.org/archive/index.php/t-1871552.html
