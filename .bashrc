@@ -121,8 +121,11 @@ fi
 
 alias ls='ls -a --color=auto'
 alias rm='rm -i'
-#export TERM=xterm-256color
-eval `dircolors ~/.dircolors`
+alias gpo='git pull --rebase origin master'
+alias gpu='git pull --rebase upstream master'
+
+export TERM=xterm-256color
+eval `dircolors ~/.dir_colors/dircolors`
 
 #git bash
 parse_git_branch() {
