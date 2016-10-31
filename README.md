@@ -17,8 +17,10 @@ My Ubuntu Desktop
 ### eclipse
 * http://stackoverflow.com/questions/31154479/eclipse-mars-scrolling-in-lubuntu
 * https://bugs.eclipse.org/bugs/show_bug.cgi?id=206740
-> edit /etc/fonts/conf.d/69-language-selector-zh-tw.conf
+
 ```sh
+    edit /etc/fonts/conf.d/69-language-selector-zh-tw.conf
+
     <match target="pattern">
         <test qual="any" name="family">
             <string>monospace</string>
