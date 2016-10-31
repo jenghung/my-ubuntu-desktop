@@ -16,6 +16,22 @@ My Ubuntu Desktop
 
 ### eclipse
 * http://stackoverflow.com/questions/31154479/eclipse-mars-scrolling-in-lubuntu
+* https://bugs.eclipse.org/bugs/show_bug.cgi?id=206740
+> edit /etc/fonts/conf.d/69-language-selector-zh-tw.conf
+```sh
+    <match target="pattern">
+        <test qual="any" name="family">
+            <string>monospace</string>
+        </test>
+        <test name="lang">
+            <string>zh-tw</string>
+        </test>
+        <edit name="family" mode="prepend" binding="strong">
+            <string>DejaVu Sans Mono</string>
+            <!--<string>Noto Sans Mono CJK TC</string>-->                       
+            <string>WenQuanYi Zen Hei Mono</string>
+            ......
+```
 
 ### fctix
 * http://smpsfox.blogspot.tw/2016/06/ubuntufcitx.html
