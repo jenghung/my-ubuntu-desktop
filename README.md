@@ -307,3 +307,6 @@ sudo vi /usr/share/applications/google-chrome.desktop
 # 在 [Desktop Entry], [NewWindow Shortcut Group], [NewIncognito Shortcut Group] 底下插入
 StartupWMClass=Google-chrome-stable
 ```
+
+## socks5
+* http://www.jianshu.com/p/6b8c8d30a40a
