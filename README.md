@@ -310,3 +310,4 @@ StartupWMClass=Google-chrome-stable
 
 ## socks5
 * http://www.jianshu.com/p/6b8c8d30a40a
+* https://www.librehat.com/three-minutes-to-set-up-shadowsocks-server-on-windows/
