@@ -311,3 +311,6 @@ StartupWMClass=Google-chrome-stable
 ## socks5
 * http://www.jianshu.com/p/6b8c8d30a40a
 * https://www.librehat.com/three-minutes-to-set-up-shadowsocks-server-on-windows/
+
+## Disable annoying sounds
+* http://www.beginninglinux.com/other/get-rid-of-annoying-default-drum-sound-alert-in-ubuntu
